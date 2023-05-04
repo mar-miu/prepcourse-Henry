@@ -1,2 +1,1 @@
-# prepcourse-Henry
-Repositorio prueba modulo 2 Prepcourse
+Este proyecto es sobre como crear repositorio en Github y trasladarlo al repositorio local.
